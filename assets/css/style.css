@@ -383,6 +383,11 @@ h6 {
 #hero .container {
   text-align: center;
 }
+#carouselExampleCaptions
+{
+  padding:200px;
+}
+
 
 #hero h2 {
   color: #fff;
@@ -390,6 +395,7 @@ h6 {
   font-size: 48px;
   font-weight: 700;
 }
+
 
 #hero p {
   animation-delay: 0.4s;
@@ -523,7 +529,7 @@ section {
 }
 
 .section-bg,
-.services .icon-box {
+.s .icon-box {
   background-color: #f8f9fa;
 }
 
@@ -687,39 +693,39 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Services
+# s
 --------------------------------------------------------------*/
-.services .icon-box {
+.s .icon-box {
   margin-bottom: 20px;
   padding: 30px;
   border-radius: 6px;
 }
 
-.services .icon-box i {
+.s .icon-box i {
   float: left;
   color: #d9232d;
   font-size: 40px;
 }
 
-.services .icon-box h4 {
+.s .icon-box h4 {
   margin-left: 70px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-.services .icon-box h4 a {
+.s .icon-box h4 a {
   color: #556270;
   transition: 0.3s;
 }
 
-.services .icon-box p {
+.s .icon-box p {
   margin-left: 70px;
   line-height: 24px;
   font-size: 14px;
 }
 
-.services .icon-box:hover h4 a {
+.s .icon-box:hover h4 a {
   color: #d9232d;
 }
 

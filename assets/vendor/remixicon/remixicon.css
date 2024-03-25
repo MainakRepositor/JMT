@@ -565,10 +565,10 @@
 .ri-currency-line:before { content: "\ec08"; }
 .ri-cursor-fill:before { content: "\ec09"; }
 .ri-cursor-line:before { content: "\ec0a"; }
-.ri-customer-service-2-fill:before { content: "\ec0b"; }
-.ri-customer-service-2-line:before { content: "\ec0c"; }
-.ri-customer-service-fill:before { content: "\ec0d"; }
-.ri-customer-service-line:before { content: "\ec0e"; }
+.ri-customer--2-fill:before { content: "\ec0b"; }
+.ri-customer--2-line:before { content: "\ec0c"; }
+.ri-customer--fill:before { content: "\ec0d"; }
+.ri-customer--line:before { content: "\ec0e"; }
 .ri-dashboard-2-fill:before { content: "\ec0f"; }
 .ri-dashboard-2-line:before { content: "\ec10"; }
 .ri-dashboard-3-fill:before { content: "\ec11"; }
@@ -1803,8 +1803,8 @@
 .ri-separator:before { content: "\f0de"; }
 .ri-server-fill:before { content: "\f0df"; }
 .ri-server-line:before { content: "\f0e0"; }
-.ri-service-fill:before { content: "\f0e1"; }
-.ri-service-line:before { content: "\f0e2"; }
+.ri--fill:before { content: "\f0e1"; }
+.ri--line:before { content: "\f0e2"; }
 .ri-settings-2-fill:before { content: "\f0e3"; }
 .ri-settings-2-line:before { content: "\f0e4"; }
 .ri-settings-3-fill:before { content: "\f0e5"; }

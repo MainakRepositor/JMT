@@ -1,6 +1,6 @@
 /**
-* Template Name: Sailor
-* Template URL: https://bootstrapmade.com/sailor-free-bootstrap-theme/
+* Template Name: Jagabandhu Memorial Trust
+* Template URL: https://bootstrapmade.com/Jagabandhu Memorial Trust-free-bootstrap-theme/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
